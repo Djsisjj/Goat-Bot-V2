@@ -1,12 +1,12 @@
 const axios = require("axios");
 
 module.exports.config = {
-  name: "bby",
+  name: "baby",
   version: "1.0.0",
   role: 0, 
   author: "dipto", 
   description: "better then all Sim simi with multiple conversation",
-  usePrefix: true,
+  en: "no prefix .",
   guide: "[message]",
   category: "ChatBots",
   coolDowns: 5,

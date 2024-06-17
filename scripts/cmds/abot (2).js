@@ -6,7 +6,7 @@ module.exports.config = {
   role: 0, 
   author: "dipto", 
   description: "better then all Sim simi with multiple conversation",
-  en: "no prefix .",
+  usePrefix: "awto",
   guide: "[message]",
   category: "ChatBots",
   coolDowns: 5,

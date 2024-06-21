@@ -31,7 +31,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Your-bby",
   "authorFB": "",
-  "prefix": "!",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
